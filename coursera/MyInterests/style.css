@@ -1,0 +1,19 @@
+.list {
+  color: #322cdb;
+}
+
+#seriesTable {
+  text-align: left;
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+* {
+  font-family: Helvetica;
+  background-color: bisque;
+}
