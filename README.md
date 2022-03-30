@@ -8,7 +8,7 @@ Practices:
 
 - [My Interests](coursera/DukeLearnToPragram/MyInterests) - [Class](https://www.coursera.org/learn/duke-programming-web/home/welcome)
 
-`A simple practice for getting familiar with HTML and CSS.`
+`A simple exercise for getting familiar with HTML and CSS.` - [Output](https://codepen.io/mahdidavoodi-the-vuer/full/rNpBEyE)
 
 - [Rampup Programming Exercises](coursera/DukeLearnToPragram/RPE) - [Class](https://www.coursera.org/learn/duke-programming-web/home/welcome)
 
