@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+  color: #0cf023;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+footer {
+  font-size: 10px;
+}
+
+input[type="button"] {
+  border-radius: 25px;
+  border: 2px solid #0cf023;
+  padding: 5px;
+  width: 50px;
+  height: 30 px;
+  font-size: 10px;
+  color: #0cf023;
+  background-color: transparent;
+}
+
+ul {
+  border-radius: 15px;
+  border: 2px solid #0cf023;
+  padding: 5px;
+  width: 500px;
+  text-align: start;
+}
+
+li {
+  list-style-type: none;
+  background-color: #eee;
+  font-size: 15px;
+  color: #0cf023;
+  background-color: transparent;
+  padding: 10px 0px 10px 5px;
+}
+
+li.finished {
+  color: white;
+  background-color: gray;
+  text-decoration: line-through;
+}
+
+input[type="text"] {
+  font-size: 15px;
+  width: 30%;
+  padding: 5px;
+  background-color: black;
+  color: #0cf023;
+  border: none;
+}

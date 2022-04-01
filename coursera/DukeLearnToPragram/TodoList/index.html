@@ -1,0 +1,25 @@
+<header>
+  <h1 id="myHeader">--TODO List--</h1>
+</header>
+
+<main>
+
+  <small>~$</small>
+  <input type="text" id="input" placeholder="Add a new task..." />
+
+  <input type="button" value="Add" id="addButton" onClick="addTask()" />
+  <input type="button" value="Clear" onClick="clearTable()" />
+  <div align="center">
+    <ul id="tasks">
+      <li>
+        <input type="button" class="remove" onclick="remove(this.parentNode)" value="Done" />
+        Start Planing.
+      </li>
+    </ul>
+  </div>
+</main>
+
+<footer>
+  <p>TODO list assignment, Coursera.</p>
+  <p>By Mahdi Davoodi</p>
+</footer>
