@@ -1,0 +1,31 @@
+body {
+  background: bisque;
+  padding: 10pt;
+  font-family: Helvetica;
+}
+footer {
+  font-size: 12px;
+}
+div {
+  margin: 5pt;
+  padding: 10pt;
+  border: 2px solid gray;
+  width: 150pt;
+}
+
+input {
+  margin: 5pt;
+  font-style: bold;
+  background-color: bisque;
+  border: 2px solid black;
+}
+#div1 {
+  font-style: italic;
+  font-size: 20px;
+  background: #42ddf5;
+}
+#div2 {
+  font-style: italic;
+  background: #8442f5;
+  color: white;
+}

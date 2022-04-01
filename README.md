@@ -14,6 +14,10 @@ This repository is for my practices in online/offline classes.
 
 `Exercises for learning the basics of programming with JavaScirpt in a customized (Duke) environment.`
 
+- [Simple Buttons](coursera/DukeLearnToPragram/SimpleButtons)
+
+`The most basic level of event driven programming.` - [Output](https://codepen.io/mahdidavoodi-the-vuer/full/NWXgZwR)
+
 - [TODO list assignment](coursera/DukeLearnToPragram/TodoList)
 
 `A solid exercise for interactive (event-driven) programming.` - [Output](https://codepen.io/mahdidavoodi-the-vuer/full/dyJVVmW)
