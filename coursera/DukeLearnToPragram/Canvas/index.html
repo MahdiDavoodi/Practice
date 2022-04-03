@@ -1,0 +1,17 @@
+<head>
+  <h1>Paint</h1>
+</head>
+<main>
+  <p>Width =
+    <input type="text" placeholder="Enter a valid number" id="setWidth" onchange="changeWidth(this.value)" />
+    Height =
+    <input type="text" placeholder="Enter a valid number" id="setHeight" onchange="changeHeight(this.value)" />
+  </p>
+  <br />
+  <canvas id="canvas" onmousedown="startPaint()" onmousemove="doPaint(event.offsetX, event.offsetY)" onmouseup="endPaint()"></canvas>
+  <br />
+  <input type="button" value="Reset" onclick="reset()" />
+  <input type="color" value="#ffffff" onchange="changeColor(this.value)" />
+  <input id="size" type="range" min="2" max="100" value="50" onchange="changeSize(this.value)" />
+</main>
+<footer></footer>

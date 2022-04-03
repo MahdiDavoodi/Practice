@@ -21,3 +21,7 @@ This repository is for my practices in online/offline classes.
 - [TODO list assignment](coursera/DukeLearnToPragram/TodoList)
 
 `A solid exercise for interactive (event-driven) programming.` - [Output](https://codepen.io/mahdidavoodi-the-vuer/full/dyJVVmW)
+
+- [Canvas](coursera/DukeLearnToPragram/Canvas)
+
+`The simplest paint. An exercise for introducing canvas.` - [Output](https://codepen.io/mahdidavoodi-the-vuer/full/bGaYKYv)
