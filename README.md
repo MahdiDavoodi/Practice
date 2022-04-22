@@ -25,3 +25,7 @@ This repository is for my practices in online/offline classes.
 - [Canvas](coursera/DukeLearnToPragram/Canvas)
 
 `The simplest paint. An exercise for introducing canvas.` - [Output](https://codepen.io/mahdidavoodi-the-vuer/full/bGaYKYv)
+
+- [GrayScale filter](coursera/DukeLearnToPragram/GrayScaleFilter)
+
+`A simple webpage that converts images to their gray version` - [Output](https://codepen.io/mahdidavoodi-the-vuer/full/NWXELEj)
