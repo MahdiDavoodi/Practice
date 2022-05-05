@@ -4,28 +4,13 @@
 
 This repository is for my practices in online/offline classes.
 
-[Coursera](https://www.coursera.org/learn/duke-programming-web/home/welcome) - Duke Learn to Program, HTML, CSS, JavaScript:
+- Duke Learn to Program, HTML, CSS, JavaScript:
 
-- [My Interests](coursera/DukeLearnToPragram/MyInterests)
-
-`A simple exercise for getting familiar with HTML and CSS.` - [Output](https://codepen.io/mahdidavoodi-the-vuer/full/rNpBEyE)
-
-- [Rampup Programming Exercises](coursera/DukeLearnToPragram/RPE)
-
-`Exercises for learning the basics of programming with JavaScirpt in a customized (Duke) environment.`
-
-- [Simple Buttons](coursera/DukeLearnToPragram/SimpleButtons)
-
-`The most basic level of event driven programming.` - [Output](https://codepen.io/mahdidavoodi-the-vuer/full/NWXgZwR)
-
-- [TODO list assignment](coursera/DukeLearnToPragram/TodoList)
-
-`A solid exercise for interactive (event-driven) programming.` - [Output](https://codepen.io/mahdidavoodi-the-vuer/full/dyJVVmW)
-
-- [Canvas](coursera/DukeLearnToPragram/Canvas)
-
-`The simplest paint. An exercise for introducing canvas.` - [Output](https://codepen.io/mahdidavoodi-the-vuer/full/bGaYKYv)
-
-- [GrayScale filter](coursera/DukeLearnToPragram/GrayScaleFilter)
-
-`A simple webpage that converts images to their gray version` - [Output](https://codepen.io/mahdidavoodi-the-vuer/full/NWXELEj)
+| Number | Type       | Name                                                            | Output                                                           | Class                                                                        |
+| ------ | ---------- | --------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| `01`   | Exercise   | [My Interests](coursera/DukeLearnToPragram/MyInterests)         | [CodePen](https://codepen.io/mahdidavoodi-the-vuer/full/rNpBEyE) | [Coursera](https://www.coursera.org/learn/duke-programming-web/home/welcome) |
+| `02`   | Exercise   | [Rampup Programming Exercises](coursera/DukeLearnToPragram/RPE) | -------                                                          | [Coursera](https://www.coursera.org/learn/duke-programming-web/home/welcome) |
+| `03`   | Exercise   | [Simple Buttons](coursera/DukeLearnToPragram/SimpleButtons)     | [CodePen](https://codepen.io/mahdidavoodi-the-vuer/full/NWXgZwR) | [Coursera](https://www.coursera.org/learn/duke-programming-web/home/welcome) |
+| `04`   | Assignment | [TODO list](coursera/DukeLearnToPragram/TodoList)               | [CodePen](https://codepen.io/mahdidavoodi-the-vuer/full/dyJVVmW) | [Coursera](https://www.coursera.org/learn/duke-programming-web/home/welcome) |
+| `05`   | Exercise   | [Canvas](coursera/DukeLearnToPragram/Canvas)                    | [CodePen](https://codepen.io/mahdidavoodi-the-vuer/full/bGaYKYv) | [Coursera](https://www.coursera.org/learn/duke-programming-web/home/welcome) |
+| `06`   | Exercise   | [GrayScale filter](coursera/DukeLearnToPragram/GrayScaleFilter) | [CodePen](https://codepen.io/mahdidavoodi-the-vuer/full/NWXELEj) | [Coursera](https://www.coursera.org/learn/duke-programming-web/home/welcome) |
