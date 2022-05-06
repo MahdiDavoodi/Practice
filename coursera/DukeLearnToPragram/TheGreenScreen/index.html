@@ -1,0 +1,27 @@
+<script src="https://www.dukelearntoprogram.com//course1/common/js/image/SimpleImage.js"></script>
+    <h1>The green screen</h1>
+    <canvas id="leftCanvas"></canvas>
+    <canvas id="rightCanvas"></canvas>
+    <br />
+    <br />
+    <label for="bgInput">Choose your Background:</label>
+    <input
+      value="Background"
+      id="bgInput"
+      accept="image/*"
+      type="file"
+      onchange="loadBg()"
+    />
+    <br />
+    <label for="fgInput">Choose your Foreground:</label>
+    <input
+      value="Foreground"
+      id="fgInput"
+      accept="image/*"
+      type="file"
+      onchange="loadFg()"
+    />
+    <br />
+    <br />
+    <input type="button" value="start" id="strButton" onclick="start()" />
+    <input type="button" value="clear" id="clrButton" onclick="clearCanvas()" />
