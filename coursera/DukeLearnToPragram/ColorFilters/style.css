@@ -1,0 +1,24 @@
+canvas {
+  border: 1px solid #000;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.2);
+  margin: 0 auto;
+  max-width: 500px;
+  padding: 0;
+  width: 80%;
+}
+body {
+  background-color: #f3bd77d0;
+}
+input[type="button"] {
+  background-color: #f3bd77d0;
+  border: 1px solid #000;
+  border-radius: 5px;
+  color: #000;
+  font-size: 1em;
+  margin: 0.5em;
+  padding: 0.25em 1em;
+}
+input[type="button"]:hover {
+  background-color: #f3bd77d0;
+  border: 1px solid #000;
+}

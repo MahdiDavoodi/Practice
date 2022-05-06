@@ -1,0 +1,16 @@
+<script src="https://www.dukelearntoprogram.com//course1/common/js/image/SimpleImage.js"></script>
+<h1>Pic Editor</h1>
+<canvas id="canvas"></canvas>
+<br />
+<br />
+<label for="input">Upload your image:</label>
+<input id="input" accept="image/*" type="file" onchange="loadImage()" />
+<br />
+<br />
+<p>Filters</p>
+<input type="button" value="Red" id="redBtn" onclick="redFilter()" />
+<input type="button" value="Blue" id="blueBtn" onclick="blueFilter()" />
+<input type="button" value="Green" id="greenBtn" onclick="greenFilter()" />
+<input type="button" value="Gray" id="grayBtn" onclick="grayFilter()" />
+<p>Options</p>
+<input type="button" value="Reset" id="resetBtn" onclick="resetPage()" />
