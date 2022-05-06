@@ -71,3 +71,9 @@ function imageIsReady() {
   if (image == null) return false;
   else return true;
 }
+
+/*
+ * Didn't finish this last one. The width and height have problems and implementing rainbow filter is impossible without them.
+ * I don't have time for this. And I already know it.
+ * It's time to focus on mobile dev.
+ */
